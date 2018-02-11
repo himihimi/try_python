@@ -26,3 +26,9 @@ while do_flag != 'no' :
 
 print('大概是所有因数' , res)
 print('不重复因数' , set(res))
+
+'''
+写if的时候本来想用三元运算的
+http://blog.csdn.net/lanchunhui/article/details/50248327
+但是发现貌似还要写几句处理, 所以就没用上
+'''
