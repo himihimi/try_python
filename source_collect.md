@@ -24,3 +24,5 @@ Python获取并输出当前日期时间
 http://docs.python-requests.org/zh_CN/latest/user/quickstart.html
 http://www.python-requests.org/en/master/
 
+>https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html#id28
+bs4的官方内容
